@@ -1,0 +1,16 @@
+.plantilla{
+    width: 400px;
+    height: 300px;
+    text-align: left;
+    font-size: 14px;
+    
+    
+}
+
+.cont{
+   
+    width: 325%;
+    display: flex;
+
+
+}
